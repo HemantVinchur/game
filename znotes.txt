@@ -1,0 +1,64 @@
+login (done)
+(action remaining)
+
+dashboard
+
+game 1
+	A coloumn
+	   0 - 9
+
+	b coloumn
+	   0 - 9
+
+game 2
+    01 - 99
+(done)
+
+user will select numbers in this game
+and place a bid
+(done)
+
+ammount will be deduced from user's wallet
+price to buy one number - 10
+(done)
+
+admin will update user's wallet from backend.
+
+admin will release one number each 1 hour between a defined time per day
+
+if user placed a bit between that time period and numbers are matched with released number
+user will get return -
+
+	single * 9
+	double * 90
+
+history of games
+
+
+
+---------------------------
+website | android
+ - login (done)
+ - dashboard
+ 		- show results
+		- quick links
+		- active games
+		- recent wins
+ - game a (done)
+ - game b (done)
+ - profile (done)
+ - wallet (done)
+ 	- balance (done)
+		- transactions (done)
+	- wins
+-----------------------------
+admin
+	- dashboard
+			- release tickets  (done)
+	- list of users  (done)
+	- list of active tickets  (done)
+  - user profile  (done)
+		- wallet update  (done)
+	- withdrawl requests  (done)
+	- settings (done)
+	- timings
